@@ -12,5 +12,5 @@ import { Component, OnInit } from "@angular/core";
 export class ButtonComponent implements OnInit {
   constructor() {}
 
-  ngOnInit() {}
+  ngOnInit() {  }
 }
