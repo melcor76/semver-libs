@@ -1,7 +1,7 @@
-import { Component, OnInit } from "@angular/core";
+import { Component, OnInit } from '@angular/core';
 
 @Component({
-  selector: "lib-button",
+  selector: 'lib-button',
   template: `
     <p>
       Button works?
@@ -13,6 +13,6 @@ export class ButtonComponent implements OnInit {
   constructor() {}
 
   ngOnInit() { 
-    console.log('')
+    console.log('dd')
    }
 }
